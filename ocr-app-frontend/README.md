@@ -1,3 +1,14 @@
+# OCR System
+Using this application you can convert images to text. For that, you have to create an account.
+
+### task
+* create account
+* log in to account
+* verify email address
+* upload image
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
